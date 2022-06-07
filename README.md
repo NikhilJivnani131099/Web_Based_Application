@@ -11,21 +11,31 @@ create this Application such as Hidden form fields , URL Rewritting , Session Tr
 
 # How to use this Web Application
 Type URL :- http://localhost:8080/styleone. This window opens
-![6](https://user-images.githubusercontent.com/78745440/172378893-1206b9dc-af5b-433f-bcbd-881309425688.png)
+![21](https://user-images.githubusercontent.com/78745440/172384822-05a6f5f5-0710-42a6-9366-6b290bd6f229.png)
+
 
 # For Designation Section 
 1.) Go to Designations Section :- List of various Designations opens. Three functionalities are given to Add , Edit , Delete the Designation.
 Following is the example of Addtion of the Designation.
-![7](https://user-images.githubusercontent.com/78745440/172379789-a4bcca56-ca5a-4fbb-a095-04743c2d4526.png)
+![22](https://user-images.githubusercontent.com/78745440/172385017-c79e98c0-f3dc-4c4d-8458-ecb69ebd34bf.png)
+
+
+
 2.) Type the Designation which you want to add or cancel if you don't want to add.
-![8](https://user-images.githubusercontent.com/78745440/172379946-589a7c6a-b2eb-49b1-ae46-8c2f8fe53503.png)
+![23](https://user-images.githubusercontent.com/78745440/172385228-776f72cb-8b70-469b-8a1e-b977d527fc86.png)
+
 3.) Designation added Succesfully in the Database. Click on Add More if you want to add more Designations.
-![9](https://user-images.githubusercontent.com/78745440/172380073-feedf1ca-6818-4a47-9d52-d52fde071f66.png)
+![24](https://user-images.githubusercontent.com/78745440/172385292-8e468247-7d24-477d-a66b-db1391bcc647.png)
+
 
 # For Employee Section
 1.) Go to Employee Section :- Employees list opens with various functionalities of Add , Edit and Delete Employee . Click on any Employee shows the full detaials of that Employee in the Bottom Section.
-![11](https://user-images.githubusercontent.com/78745440/172381902-ae812247-987f-46e1-84d6-e93d66434816.png)
+![25](https://user-images.githubusercontent.com/78745440/172385743-613099f1-7f33-442b-8339-a205da99cd38.png)
+
+
 2.) For addition of any Employee fill the Details. In Designation Section the list of only that Designations opens which are saved in Designation Database.
-![12](https://user-images.githubusercontent.com/78745440/172382462-2a50d654-72d3-43a3-9404-cdadb0deec13.png)
+![26](https://user-images.githubusercontent.com/78745440/172385661-c9e24938-36b3-4aa8-ad66-54dbbab8d4e6.png)
+
 3.) Click on Add Button and Employee Details are Added.
-![13](https://user-images.githubusercontent.com/78745440/172383004-37e896a5-495a-4fe8-9a53-a4e3ad7dcb71.png)
+![27](https://user-images.githubusercontent.com/78745440/172385712-e5b32138-1bf4-4ac8-96c4-13d9079dc916.png)
+
